@@ -13,7 +13,9 @@
 |#PRJ001|Testes no web site e-commerce Automation Pratice|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|
 
 
-Fig(Print do site ou wireframe)
+<p align="center">
+ <img src="site_screen.PNG?raw=true" alt="Baleia Test Lab Logo" width="70%" height="70%" />
+</p>
 
 
 
