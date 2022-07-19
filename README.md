@@ -10,7 +10,7 @@
 
 |ID #| Nome | Descrição |
 |-|-|-|
-|PRJ001|Testes E-commerce Atomation Pratice|Testes funcionais na plataforma demonstraçao da Selenium|
+|#PRJ001|Testes no web site e-commerce Automation Pratice|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|
 
 
 Fig(Print do site ou wireframe)
@@ -21,15 +21,12 @@ Fig(Print do site ou wireframe)
 
 
 ## 2. Cenários de Teste
-We emphasize on requirement types as follows:
-1. Backend Data exchange with train companies
-2. Metro train companies integration (Short-distance trains)
+
 
 #### Note: A Release Cycle is equivalent to 4 weeks or 1 month.
 |Req. #| Brief Req. Description | Req. source | Req. Priority | Initial Sprint No. | Final Sprint No. | Req. Status |
 |-|-|-|-|-|-|-|
 |2|Data Transaction/Exchange System|Client|Priority 1|1|10|Accepted for this Release|
 |3|Train delay or schedule changes must be updated in less than 3 seconds|Client|Priority 1|1|10|Accepted for this Release|
-|1|Check-in/out for Metro train systems|Client|Priority 2|4|10|Postponed to Release 4|
-|17|Bug/Feedback tracking feature|Client|Priority 3|4|4|Postponed to Release 4|
+
 
