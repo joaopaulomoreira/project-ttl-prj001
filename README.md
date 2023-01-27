@@ -1,21 +1,13 @@
 
-<p align="center">
- <img src="logo.png?raw=true" alt="Baleia Test Lab Logo" width="20%" height="20%" />
-</p>
 
 
-## Baleia's Test Lab
+## Traning Test Lab
 
 ## Projeto #PRJ001 - Testes funcionais na plataforma demonstraçao da Selenium - Atomation Pratice
 
 |ID #| Nome | Descrição |
 |-|-|-|
 |#PRJ001|Testes no web site e-commerce Automation Pratice|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|
-
-
-<p align="center">
- <img src="site_screen.PNG?raw=true" alt="Baleia Test Lab Logo" width="70%" height="70%" />
-</p>
 
 
 
